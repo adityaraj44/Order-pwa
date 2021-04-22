@@ -1,0 +1,17 @@
+{
+    "name": "Ads4Earth",
+    "short_name": "Ads4Earth",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "description":"Ads4Earth",
+    "theme_color": "#fff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "./logo512.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+    
+  }
